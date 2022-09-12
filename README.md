@@ -6,7 +6,7 @@ Introduction
 ActivityList_App Notes, is an app where you to write down tasks to complete. The app displays them in a list.
 You can then mark them as completed or not, filter them and delete them.
 
-The codelabs in this series are:
+The codelabs in series are:
 * [Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics)
 * [Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
 * [Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey)
