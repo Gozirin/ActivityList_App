@@ -12,7 +12,7 @@ The codelabs in series are:
 * [Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey)
 
 
-Pre-requisites
+Technologies
 --------------
 
 You should be familiar with:
